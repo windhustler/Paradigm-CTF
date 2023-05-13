@@ -1,2 +1,5 @@
 [profile.ci.fuzz]
 runs = 10_000
+
+[rpc_endpoints]
+local = "http://localhost:8545"
